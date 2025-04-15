@@ -1,3 +1,10 @@
+LINK DO PROJETO: https://landing-page-samuelbozza.vercel.app
+
+Projeto feito em aula com a Youtuber Fernanda Kipper.
+
+##
+
+
 # LandingPage
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.7.
